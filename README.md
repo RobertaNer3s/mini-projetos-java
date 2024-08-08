@@ -5,24 +5,24 @@ Cada projeto aborda um conceito ou funcionalidade diferente do Java, oferecendo 
 
 ## Mini projetos
 
-Jogo da Velha
-Lista de compras
-Calculadora de Idade
-Calculadora IMC
-Calculadora de Média
-Conversor de Moedas
-Gerador de Senhas
-Jogo de Forca
-Chatbot
-Contador de letras
-Jogo da velha
-Menu
-Contador
-Conversor de temperatura: Celsiu/Fahrenheit
+Jogo da Velha,
+Lista de compras,
+Calculadora de Idade,
+Calculadora IMC,
+Calculadora de Média,
+Conversor de Moedas,
+Gerador de Senhas,
+Jogo de Forca,
+Chatbot,
+Contador de letras,
+Jogo da velha,
+Menu,
+Contador,
+Conversor de temperatura: Celsiu/Fahrenheit,
 Login
 
 
-## Projetos: 
+## Sobre os projetos: 
 ## Conversor de Temperatura
 Um simples conversor que transforma valores de Celsius para Fahrenheit. Permite ao usuário inserir uma temperatura em Celsius e retorna o valor correspondente em Fahrenheit.
 
