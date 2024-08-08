@@ -1,4 +1,4 @@
-##  Java Mini Projects 
+##  Mini Projetos em Java
 <br/>
 Este repositório contém uma coleção de pequenos projetos em Java que desenvolvi para testar e aprimorar meus conhecimentos em programação. 
 Cada projeto aborda um conceito ou funcionalidade diferente do Java, oferecendo uma visão prática e objetiva do que a linguagem pode fazer.
